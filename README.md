@@ -24,4 +24,4 @@ I am a Flutter Developer and a computer teacher, interested in developing mobile
 
 ### Github Stats 💹
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=yalda-student&count_private=true&theme=default&show_icons=true)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=yalda-student&count_private=true&theme=default&show_icons=true)](https://github.com/yalda-student)
