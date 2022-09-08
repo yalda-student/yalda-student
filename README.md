@@ -18,10 +18,12 @@ I am a Flutter Developer and a computer teacher, interested in developing mobile
  
 ### My Open-Source Projects 📖
 
-[![Note to Keep](https://github-readme-stats.vercel.app/api/pin/?username=yalda-student&repo=note_to_remember)](https://github.com/yalda-student/note_to_remember)
-[![Bouncing Spinner](https://github-readme-stats.vercel.app/api/pin/?username=yalda-student&repo=bouncing_spinner)](https://github.com/yalda-student/bouncing_spinner)
+[![Note to Keep](https://github-readme-stats.vercel.app/api/pin/?username=yalda-student&show_owner=true&theme=rose_pine&repo=note_to_remember)](https://github.com/yalda-student/note_to_remember)
+[![Bouncing Spinner](https://github-readme-stats.vercel.app/api/pin/?username=yalda-student&show_owner=true&theme=rose_pine&repo=bouncing_spinner)](https://github.com/yalda-student/bouncing_spinner)
 
 
 ### Github Stats 💹
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=yalda-student&count_private=true&theme=default&show_icons=true)](https://github.com/yalda-student)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=yalda-student&count_private=true&theme=rose_pine&show_icons=true)](https://github.com/yalda-student)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalda-student&layout=compact&theme=rose_pine)](https://github.com/yalda-student)
